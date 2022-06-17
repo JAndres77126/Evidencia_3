@@ -1,7 +1,6 @@
 body{
     margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fire Sans", "Droid Sans", "Helvetica Neue", Sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen";
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: rgb(41, 0, 189);
@@ -51,8 +50,3 @@ body{
     
 }
 
-.sidebar-header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
